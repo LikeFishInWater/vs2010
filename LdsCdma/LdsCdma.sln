@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LdsCdma", "LdsCdma\LdsCdma.vcxproj", "{833C01C9-BF63-44C8-BC51-64744DE7992B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LdsCdmaRegular", "LdsCdmaRegular\LdsCdmaRegular.vcxproj", "{20D1A297-3EDE-4FCA-A005-DFB9E4DE20AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LdsCdmaRegularQPSK", "LdsCdmaRegularQPSK\LdsCdmaRegularQPSK.vcxproj", "{3C449EE2-5E2E-4880-83C4-A057D7E1B48F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{833C01C9-BF63-44C8-BC51-64744DE7992B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{833C01C9-BF63-44C8-BC51-64744DE7992B}.Debug|Win32.Build.0 = Debug|Win32
+		{833C01C9-BF63-44C8-BC51-64744DE7992B}.Release|Win32.ActiveCfg = Release|Win32
+		{833C01C9-BF63-44C8-BC51-64744DE7992B}.Release|Win32.Build.0 = Release|Win32
+		{20D1A297-3EDE-4FCA-A005-DFB9E4DE20AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{20D1A297-3EDE-4FCA-A005-DFB9E4DE20AF}.Debug|Win32.Build.0 = Debug|Win32
+		{20D1A297-3EDE-4FCA-A005-DFB9E4DE20AF}.Release|Win32.ActiveCfg = Release|Win32
+		{20D1A297-3EDE-4FCA-A005-DFB9E4DE20AF}.Release|Win32.Build.0 = Release|Win32
+		{3C449EE2-5E2E-4880-83C4-A057D7E1B48F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C449EE2-5E2E-4880-83C4-A057D7E1B48F}.Debug|Win32.Build.0 = Debug|Win32
+		{3C449EE2-5E2E-4880-83C4-A057D7E1B48F}.Release|Win32.ActiveCfg = Release|Win32
+		{3C449EE2-5E2E-4880-83C4-A057D7E1B48F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

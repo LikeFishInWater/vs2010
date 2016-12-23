@@ -1,0 +1,35 @@
+﻿Build started 2016/12/4 18:27:57.
+     1>Project "E:\Yang\project\visual studio\LdsCdma_NBLDPC\LdsCdma_NBLDPC\LdsCdma_NBLDPC.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\LdsCdma_NBLDPC.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Comm.cpp
+         Comm.cpp
+     1>e:\yang\project\visual studio\ldscdma_nbldpc\ldscdma_nbldpc\comm.cpp(330): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Yang\project\visual studio\LdsCdma_NBLDPC\Debug\LdsCdma_NBLDPC.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\LdsCdma_NBLDPC.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Yang\project\visual studio\LdsCdma_NBLDPC\Debug\LdsCdma_NBLDPC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Yang\project\visual studio\LdsCdma_NBLDPC\Debug\LdsCdma_NBLDPC.lib" /MACHINE:X86 Debug\LdsCdma_NBLDPC.exe.embed.manifest.res
+         Debug\Comm.obj
+         Debug\Complex.obj
+         Debug\GF.obj
+         Debug\GFElement.obj
+         Debug\LdsCdmaNbLdpc_v2.obj
+         Debug\NBLDPC.obj
+         Debug\Rand.obj
+         Debug\Simulation.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\LdsCdma_NBLDPC.exe.embed.manifest" /manifest Debug\LdsCdma_NBLDPC.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         LdsCdma_NBLDPC.vcxproj -> E:\Yang\project\visual studio\LdsCdma_NBLDPC\Debug\LdsCdma_NBLDPC.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\LdsCdma_NBLDPC.unsuccessfulbuild".
+         Touching "Debug\LdsCdma_NBLDPC.lastbuildstate".
+     1>Done Building Project "E:\Yang\project\visual studio\LdsCdma_NBLDPC\LdsCdma_NBLDPC\LdsCdma_NBLDPC.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.21

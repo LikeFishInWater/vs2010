@@ -1,0 +1,1278 @@
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: 
+GF: 0	Puncture Variable Degree: 0	Maximum iterations: 0
+Modulation: 0-QAM	Conf: 
+SNR: 0:0:0	ALL 0 sequence
+Min Err Frame: 0	Min Sim Frame: 0	Rand Seed: 0
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/r.2.4.Ns.160.GF.64.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/r.2.4.Ns.160.GF.64.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-9-14,9:47:6
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+0	101	4.038057e-01	8.841584e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.932980e+02 **** 
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/r.2.4.Ns.160.GF.64.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-9-14,10:26:7
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/r.2.4.Ns.160.GF.64.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-9-24,15:40:11
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/r.2.4.Ns.160.GF.64.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-9-26,12:52:13
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/r.2.4.Ns.160.GF.64.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-9-26,13:10:32
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/r.2.4.Ns.160.GF.64.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-9-26,14:37:23
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/r.2.4.Ns.160.GF.64.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-9-26,16:41:41
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/r.2.4.Ns.160.GF.64.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-9-27,10:11:17
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/r.2.4.Ns.160.GF.64.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-9-27,10:13:30
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/r.2.4.Ns.160.GF.64.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-9-27,10:31:4
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/r.2.4.Ns.160.GF.64.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-9-27,10:41:37
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+0	101	4.047649e-01	8.809406e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.810760e+02 **** 
+0.5	101	4.030941e-01	8.746287e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.781210e+02 **** 
+1	101	4.022587e-01	8.738861e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.790730e+02 **** 
+1.5	101	3.971535e-01	8.652228e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.813970e+02 **** 
+2	101	3.957302e-01	8.590347e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	8.766414e+03 **** 
+2.5	101	3.916151e-01	8.576733e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.836930e+02 **** 
+3	101	3.917079e-01	8.532178e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.848060e+02 **** 
+3.5	101	3.905941e-01	8.540842e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.849560e+02 **** 
+4	101	3.900062e-01	8.482673e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.847150e+02 **** 
+4.5	101	3.818688e-01	8.342822e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.870960e+02 **** 
+5	101	3.855817e-01	8.361386e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.856790e+02 **** 
+5.5	101	3.850557e-01	8.320545e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.848530e+02 **** 
+6	101	3.802290e-01	8.273515e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.854410e+02 **** 
+6.5	101	3.804146e-01	8.266089e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.852670e+02 **** 
+7	101	3.823020e-01	8.315594e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.851450e+02 **** 
+7.5	101	3.785582e-01	8.216584e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.856340e+02 **** 
+8	101	3.777228e-01	8.179455e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.861210e+02 **** 
+8.5	101	3.736696e-01	8.146040e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.858920e+02 **** 
+9	101	3.745978e-01	8.168317e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.859550e+02 **** 
+9.5	101	3.758973e-01	8.148515e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.857320e+02 **** 
+10	101	3.759592e-01	8.079208e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.866430e+02 **** 
+End in: 2016-9-27,10:41:37
+
+
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-9-27,18:5:7
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+0	101	1.296218e-01	3.593043e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	3.724500e+02 **** 
+0.5	101	8.544369e-02	2.362652e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	3.693460e+02 **** 
+1	101	3.803769e-02	1.037698e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	3.411030e+02 **** 
+1.5	101	8.081818e-03	2.141957e-02	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	3.467860e+02 **** 
+2	101	9.489729e-04	2.471834e-03	8.015873e-01	0.000000e+00	0.000000e+00	0.000000e+00	1.270000e+02	4.206870e+02 **** 
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-9-27,20:9:5
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-10-10,19:14:15
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-10-10,19:17:23
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-10-10,19:17:35
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-10-10,20:29:15
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-10-14,14:13:33
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-10-14,14:13:57
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-10-14,14:15:5
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-10-21,14:38:48
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-10-21,14:53:48
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-10-29,15:12:55
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+0	101	1.296218e-01	3.593043e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	4.509520e+02 **** 
+0.5	101	8.544369e-02	2.362652e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	4.930680e+02 **** 
+1	101	3.803769e-02	1.037698e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	4.727130e+02 **** 
+1.5	101	8.081818e-03	2.141957e-02	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	4.781750e+02 **** 
+2	101	9.489729e-04	2.471834e-03	8.015873e-01	0.000000e+00	0.000000e+00	0.000000e+00	1.270000e+02	5.435890e+02 **** 
+2.5	101	1.348479e-04	3.389807e-04	2.343387e-01	1.173835e-05	3.321095e-05	1.856148e-02	4.320000e+02	1.333318e+03 **** 
+3	101	2.164415e-05	5.707285e-05	4.948555e-02	3.627512e-06	9.189696e-06	7.839294e-03	2.042000e+03	3.975837e+03 **** 
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-6,16:0:50
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+0	101	1.296218e-01	3.593043e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	3.584200e+02 **** 
+0.5	101	8.544369e-02	2.362652e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	5.400440e+02 **** 
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-6,16:20:23
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 100	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-15,11:54:51
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-15,11:55:56
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: -2:0.5:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-15,11:57:4
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: -3:0.5:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-15,12:0:33
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: -3:0.5:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-15,12:9:43
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: -3:0.5:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-15,12:10:14
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: -3:0.5:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-15,12:10:22
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: -3:0.5:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-15,12:11:0
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: -3:0.5:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-15,12:11:23
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: -3:0.5:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-15,12:14:7
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: -3:0.5:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-15,12:15:22
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+-3	31	2.612927e-01	6.849982e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.121100e+02 **** 
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: -3:0.5:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-15,15:31:58
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+-3	31	2.612927e-01	6.849982e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.075300e+02 **** 
+-2.5	31	2.456095e-01	6.518645e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.106130e+02 **** 
+-2	31	2.287839e-01	6.170270e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.072290e+02 **** 
+-1.5	31	2.103223e-01	5.721587e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.077320e+02 **** 
+-1	31	1.871159e-01	5.146005e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.072580e+02 **** 
+-0.5	31	1.609321e-01	4.455784e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.078950e+02 **** 
+0	31	1.280610e-01	3.546795e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.074060e+02 **** 
+0.5	31	8.343550e-02	2.317931e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.067120e+02 **** 
+1	31	3.528325e-02	9.688565e-02	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.077540e+02 **** 
+1.5	31	6.253383e-03	1.686145e-02	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.062170e+02 **** 
+2	31	9.089158e-04	2.371608e-03	7.560976e-01	0.000000e+00	0.000000e+00	0.000000e+00	4.200000e+01	1.362270e+02 **** 
+2.5	25	1.295046e-04	3.323136e-04	2.475248e-01	1.710438e-05	3.909572e-05	2.970297e-02	1.020000e+02	2.435490e+02 **** 
+3	4	1.221741e-05	3.909572e-05	3.960396e-02	7.330447e-06	1.954786e-05	1.980198e-02	1.020000e+02	1.527930e+02 **** 
+3.5	0	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.061420e+02 **** 
+4	0	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	8.224700e+01 **** 
+4.5	0	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	6.886000e+01 **** 
+5	0	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	5.996500e+01 **** 
+5.5	0	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	4.827400e+01 **** 
+6	0	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	4.277600e+01 **** 
+6.5	0	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	3.824300e+01 **** 
+7	0	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	3.295500e+01 **** 
+7.5	0	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	2.726400e+01 **** 
+8	0	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	2.200200e+01 **** 
+8.5	0	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	2.078900e+01 **** 
+9	0	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.998100e+01 **** 
+9.5	0	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.977400e+01 **** 
+10	0	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.966700e+01 **** 
+End in: 2016-11-15,15:31:58
+
+
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: -3:0.5:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-15,21:28:52
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: -3:0.5:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-15,21:29:18
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+-3	31	2.612927e-01	6.849982e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.034110e+02 **** 
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-15,21:31:53
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+0	31	1.280610e-01	3.546795e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.026990e+02 **** 
+0.5	31	8.343550e-02	2.317931e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.026650e+02 **** 
+1	31	3.528325e-02	9.688565e-02	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.017160e+02 **** 
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-15,22:1:34
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-16,9:50:10
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+0	31	1.280610e-01	3.546795e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.076070e+02 **** 
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-16,9:52:41
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+0	31	1.280610e-01	3.546795e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.051870e+02 **** 
+0.5	31	8.343550e-02	2.317931e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.076930e+02 **** 
+1	31	3.528325e-02	9.688565e-02	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.051190e+02 **** 
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-16,10:3:30
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+0	31	1.280610e-01	3.546795e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.031350e+02 **** 
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/BM.N4.M2.Z1013.C0.G10.r.2.4.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 20
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.5:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-16,10:7:2
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+0	31	1.280610e-01	3.546795e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.035840e+02 **** 
+0.5	31	8.343550e-02	2.317931e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	1.044080e+02 **** 
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/PEG.4000.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 50
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.2:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-16,10:14:31
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+0	31	1.310484e-01	3.658710e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	6.338500e+01 **** 
+0.2	31	1.161774e-01	3.246452e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	6.360700e+01 **** 
+0.4	31	9.866129e-02	2.723871e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	6.953900e+01 **** 
+0.6	31	7.577419e-02	2.104516e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	6.448000e+01 **** 
+0.8	31	5.577419e-02	1.538710e-01	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	6.374000e+01 **** 
+1	31	3.396774e-02	9.180645e-02	1.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	3.200000e+01	6.351000e+01 **** 
+1.2	31	1.635294e-02	4.258824e-02	9.117647e-01	0.000000e+00	0.000000e+00	0.000000e+00	3.500000e+01	6.649500e+01 **** 
+1.4	31	6.550000e-03	1.680000e-02	7.750000e-01	0.000000e+00	0.000000e+00	0.000000e+00	4.100000e+01	7.336700e+01 **** 
+1.6	31	2.052632e-03	5.052632e-03	5.438596e-01	0.000000e+00	0.000000e+00	0.000000e+00	5.800000e+01	8.706900e+01 **** 
+1.8	28	8.663366e-04	2.158416e-03	2.772277e-01	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	1.187870e+02 **** 
+2	16	3.712871e-04	9.504950e-04	1.584158e-01	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	8.864600e+01 **** 
+2.2	9	1.485149e-04	4.158416e-04	8.910891e-02	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	6.231700e+01 **** 
+2.4	3	5.445545e-05	1.584158e-04	2.970297e-02	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	4.776400e+01 **** 
+2.6	2	3.960396e-05	9.900990e-05	1.980198e-02	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	3.879900e+01 **** 
+2.8	1	4.950495e-06	1.980198e-05	9.900990e-03	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	3.187500e+01 **** 
+3	0	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	2.643500e+01 **** 
+3.2	0	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	1.020000e+02	2.430700e+01 **** 
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/PEG.4000.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 50
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.2:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/PEG.4000.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 50
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.2:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-16,13:6:42
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/PEG.4000.GF.64.txt
+GF: 64	Puncture Variable Degree: 0	Maximum iterations: 50
+Algorithm: Trellis EMS	Nr: 2	Nc: 2	Factor: 1.3	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.2:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 100	Rand Seed: 173
+
+Begin in: 2016-11-27,20:40:7
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+0	31	1.713165e-001	5.972101e-001	1.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	3.200000e+001	1.045808e+003 **** 
+0.2	31	1.545578e-001	5.378282e-001	1.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	3.200000e+001	9.541580e+002 **** 
+0.4	31	1.323420e-001	4.546159e-001	1.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	3.200000e+001	9.661550e+002 **** 
+0.6	31	9.565448e-002	3.255609e-001	9.117647e-001	0.000000e+000	0.000000e+000	0.000000e+000	3.500000e+001	1.085760e+003 **** 
+0.8	31	5.322765e-002	1.797612e-001	7.209302e-001	0.000000e+000	0.000000e+000	0.000000e+000	4.400000e+001	1.318029e+003 **** 
+1	31	1.336975e-002	4.453390e-002	3.297872e-001	0.000000e+000	0.000000e+000	0.000000e+000	9.500000e+001	2.059465e+003 **** 
+1.2	6	1.313194e-003	4.281509e-003	5.940594e-002	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	1.565850e+003 **** 
+1.4	1	9.910901e-006	2.973270e-005	9.900990e-003	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	1.076197e+003 **** 
+1.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	9.505700e+002 **** 
+1.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	6.494600e+002 **** 
+2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	6.289290e+002 **** 
+2.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	5.901170e+002 **** 
+2.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	5.309150e+002 **** 
+2.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	4.193750e+002 **** 
+2.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	3.908110e+002 **** 
+3	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	3.263520e+002 **** 
+3.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	3.121090e+002 **** 
+3.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	2.821570e+002 **** 
+3.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	2.383060e+002 **** 
+3.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	2.402550e+002 **** 
+4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	2.446240e+002 **** 
+4.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	1.922540e+002 **** 
+4.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	2.069340e+002 **** 
+4.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	2.093680e+002 **** 
+4.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	1.917240e+002 **** 
+5	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	1.570140e+002 **** 
+5.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	1.404000e+002 **** 
+5.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	1.612420e+002 **** 
+5.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	1.169840e+002 **** 
+5.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	1.071100e+002 **** 
+6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	1.024140e+002 **** 
+6.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	1.170930e+002 **** 
+6.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	1.118990e+002 **** 
+6.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	9.700100e+001 **** 
+6.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	6.965400e+001 **** 
+7	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	8.172800e+001 **** 
+7.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	9.261700e+001 **** 
+7.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	6.867200e+001 **** 
+7.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	6.982500e+001 **** 
+7.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	6.452200e+001 **** 
+8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	7.247700e+001 **** 
+8.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	5.261900e+001 **** 
+8.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	5.641000e+001 **** 
+8.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	6.116700e+001 **** 
+8.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	6.673700e+001 **** 
+9	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	5.405400e+001 **** 
+9.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	7.686100e+001 **** 
+9.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	6.246300e+001 **** 
+9.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	7.968500e+001 **** 
+9.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	7.420900e+001 **** 
+10	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	1.020000e+002	6.491100e+001 **** 
+End in: 2016-11-27,20:40:7
+
+
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/PEG.4000.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 50
+Algorithm: BP
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.2:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 50	Rand Seed: 173
+
+Begin in: 2016-11-28,14:40:43
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+0	31	1.130000e-001	3.198710e-001	1.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	3.200000e+001	6.280720e+002 **** 
+0.2	31	9.932258e-002	2.796774e-001	1.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	3.200000e+001	6.637640e+002 **** 
+0.4	31	8.314516e-002	2.323871e-001	1.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	3.200000e+001	6.415820e+002 **** 
+0.6	31	5.950000e-002	1.621212e-001	9.393939e-001	0.000000e+000	0.000000e+000	0.000000e+000	3.400000e+001	6.888330e+002 **** 
+0.8	31	3.959722e-002	1.063333e-001	8.611111e-001	0.000000e+000	0.000000e+000	0.000000e+000	3.700000e+001	7.094880e+002 **** 
+1	29	1.478431e-002	3.862745e-002	5.686275e-001	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	8.670170e+002 **** 
+1.2	11	5.617647e-003	1.450980e-002	2.156863e-001	1.274510e-004	3.137255e-004	1.960784e-002	5.200000e+001	6.007250e+002 **** 
+1.4	4	6.862745e-004	1.725490e-003	7.843137e-002	9.803922e-005	1.960784e-004	1.960784e-002	5.200000e+001	4.258330e+002 **** 
+1.6	2	1.568627e-004	3.921569e-004	3.921569e-002	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	3.394870e+002 **** 
+1.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	2.766510e+002 **** 
+2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	2.037510e+002 **** 
+2.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.588710e+002 **** 
+2.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.659990e+002 **** 
+2.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.524750e+002 **** 
+2.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.188560e+002 **** 
+3	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	9.512900e+001 **** 
+3.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.047380e+002 **** 
+3.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	8.954400e+001 **** 
+3.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	7.706400e+001 **** 
+3.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	7.087100e+001 **** 
+4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	7.399100e+001 **** 
+4.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	5.747000e+001 **** 
+4.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	6.222900e+001 **** 
+4.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	5.603500e+001 **** 
+4.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	4.302500e+001 **** 
+5	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	4.325800e+001 **** 
+5.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	4.227600e+001 **** 
+5.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	4.442900e+001 **** 
+5.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	3.964000e+001 **** 
+5.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	3.573900e+001 **** 
+6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	3.829800e+001 **** 
+6.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	4.277600e+001 **** 
+6.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	3.681600e+001 **** 
+6.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	3.555200e+001 **** 
+6.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	2.614600e+001 **** 
+7	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	2.882800e+001 **** 
+7.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	2.797100e+001 **** 
+7.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	2.606800e+001 **** 
+7.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	2.191800e+001 **** 
+7.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.829900e+001 **** 
+8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	2.519400e+001 **** 
+8.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.967200e+001 **** 
+8.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	2.135600e+001 **** 
+8.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.845500e+001 **** 
+8.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.923500e+001 **** 
+9	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	2.325900e+001 **** 
+9.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.887600e+001 **** 
+9.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	2.316600e+001 **** 
+9.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	2.204300e+001 **** 
+9.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	2.212100e+001 **** 
+10	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	2.318200e+001 **** 
+End in: 2016-11-28,14:40:43
+
+
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/PEG.4000.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 50
+Algorithm: EMS	Nm: 13	Nc: 3	Factor: 1.2	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.2:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 50	Rand Seed: 173
+
+Begin in: 2016-11-28,21:53:6
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+0	31	1.235645e-001	3.470323e-001	1.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	3.200000e+001	2.122489e+003 **** 
+0.2	31	1.080806e-001	3.022581e-001	1.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	3.200000e+001	2.021744e+003 **** 
+0.4	31	9.016129e-002	2.524516e-001	1.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	3.200000e+001	2.104830e+003 **** 
+0.6	31	7.116129e-002	1.980000e-001	1.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	3.200000e+001	2.030169e+003 **** 
+0.8	31	4.814062e-002	1.316875e-001	9.687500e-001	0.000000e+000	0.000000e+000	0.000000e+000	3.300000e+001	2.090400e+003 **** 
+1	31	2.754545e-002	7.272727e-002	9.393939e-001	0.000000e+000	0.000000e+000	0.000000e+000	3.400000e+001	2.202673e+003 **** 
+1.2	31	1.072973e-002	2.816216e-002	8.378378e-001	0.000000e+000	0.000000e+000	0.000000e+000	3.800000e+001	2.177370e+003 **** 
+1.4	22	3.519608e-003	9.215686e-003	4.313725e-001	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	2.383259e+003 **** 
+1.6	12	8.529412e-004	2.196078e-003	2.352941e-001	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.586083e+003 **** 
+1.8	7	2.647059e-004	7.058824e-004	1.372549e-001	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.277734e+003 **** 
+2	2	7.843137e-005	1.960784e-004	3.921569e-002	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	9.831580e+002 **** 
+2.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	6.369020e+002 **** 
+2.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	5.064070e+002 **** 
+2.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	4.429460e+002 **** 
+2.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	4.119650e+002 **** 
+3	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	3.895630e+002 **** 
+3.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	2.981630e+002 **** 
+3.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	3.147610e+002 **** 
+3.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	2.938570e+002 **** 
+3.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	2.285560e+002 **** 
+4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	2.779300e+002 **** 
+4.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.961070e+002 **** 
+4.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	2.082760e+002 **** 
+4.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.947660e+002 **** 
+4.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.500410e+002 **** 
+5	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.591510e+002 **** 
+5.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.623020e+002 **** 
+5.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.161270e+002 **** 
+5.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.391980e+002 **** 
+5.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.407590e+002 **** 
+6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.375140e+002 **** 
+6.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	1.236300e+002 **** 
+6.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	9.046500e+001 **** 
+6.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	9.232000e+001 **** 
+6.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	9.748500e+001 **** 
+7	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	8.161900e+001 **** 
+7.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	7.012200e+001 **** 
+7.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	8.416200e+001 **** 
+7.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	6.009100e+001 **** 
+7.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	7.868700e+001 **** 
+8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	6.533200e+001 **** 
+8.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	7.823400e+001 **** 
+8.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	5.616000e+001 **** 
+8.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	7.573800e+001 **** 
+8.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	5.784500e+001 **** 
+9	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	7.190100e+001 **** 
+9.2	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	7.659600e+001 **** 
+9.4	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	7.367800e+001 **** 
+9.6	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	6.843800e+001 **** 
+9.8	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	6.124500e+001 **** 
+10	0	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000	5.200000e+001	6.545800e+001 **** 
+End in: 2016-11-28,21:53:6
+
+
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/PEG.4000.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 50
+Algorithm: Min Max
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.2:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 50	Rand Seed: 173
+
+Begin in: 2016-11-29,8:45:17
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/PEG.4000.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 50
+Algorithm: EMS	Nm: 13	Nc: 3	Factor: 1.2	Offset: 0
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.2:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 50	Rand Seed: 173
+
+Begin in: 2016-11-29,8:46:1
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/PEG.4000.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 50
+Algorithm: Min Max
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.2:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 50	Rand Seed: 173
+
+Begin in: 2016-11-29,8:46:18
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/PEG.4000.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 50
+Algorithm: Min Max
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.2:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 50	Rand Seed: 173
+
+Begin in: 2016-11-29,8:46:26
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/PEG.4000.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 50
+Algorithm: Min Max
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.2:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 50	Rand Seed: 173
+
+Begin in: 2016-11-29,8:46:48
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/PEG.4000.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 50
+Algorithm: Min Max
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.2:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 50	Rand Seed: 173
+
+Begin in: 2016-11-29,8:47:16
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/PEG.4000.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 50
+Algorithm: Min Max
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.2:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 50	Rand Seed: 173
+
+Begin in: 2016-11-29,8:47:37
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME
+
+
+
+Configuration lists as follows:
+Code: ./Matrics/PEG.4000.GF.16.txt
+GF: 16	Puncture Variable Degree: 0	Maximum iterations: 50
+Algorithm: Min Max
+Modulation: 2-QAM	Conf: ./Constellation/BPSK.txt
+SNR: 0:0.2:10	Random Sequence
+Min Err Frame: 30	Min Sim Frame: 50	Rand Seed: 173
+
+Begin in: 2016-11-29,8:48:3
+EbN0	Error	BER		SER		FER		U-BER		U-SER		U-FER		SIM		TIME

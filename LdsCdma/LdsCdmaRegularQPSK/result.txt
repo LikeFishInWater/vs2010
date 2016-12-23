@@ -1,0 +1,1 @@
+EbNodb:15   BER:0.000838088   FER:0.00475511   errBit:282   errFrm:50   total:10515

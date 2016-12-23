@@ -1,0 +1,44 @@
+﻿Build started 2016/12/4 19:29:25.
+     1>Project "E:\Yang\project\visual studio\LdsCdma\LdsCdma\LdsCdma.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\LdsCdma.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\LdsCdma.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Comm.cpp Complex.cpp LdsCDMA_v1.cpp Rand.cpp stdafx.cpp
+         stdafx.cpp
+         Rand.cpp
+         LdsCDMA_v1.cpp
+     1>e:\yang\project\visual studio\ldscdma\ldscdma\ldscdma_v1.cpp(12): warning C4101: 'errTemp' : unreferenced local variable
+         Complex.cpp
+         Comm.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\LdsCdma.exe.embed.manifest.res" Debug\LdsCdma_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Yang\project\visual studio\LdsCdma\Debug\LdsCdma.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\LdsCdma.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Yang\project\visual studio\LdsCdma\Debug\LdsCdma.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Yang\project\visual studio\LdsCdma\Debug\LdsCdma.lib" /MACHINE:X86 Debug\LdsCdma.exe.embed.manifest.res
+         Debug\Comm.obj
+         Debug\Complex.obj
+         Debug\LdsCDMA_v1.obj
+         Debug\Rand.obj
+         Debug\stdafx.obj
+       Manifest:
+         Deleting file "Debug\LdsCdma.exe.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\LdsCdma.exe.embed.manifest" /manifest Debug\LdsCdma.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\LdsCdma.exe.embed.manifest.res" Debug\LdsCdma_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Yang\project\visual studio\LdsCdma\Debug\LdsCdma.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\LdsCdma.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Yang\project\visual studio\LdsCdma\Debug\LdsCdma.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Yang\project\visual studio\LdsCdma\Debug\LdsCdma.lib" /MACHINE:X86 Debug\LdsCdma.exe.embed.manifest.res
+         Debug\Comm.obj
+         Debug\Complex.obj
+         Debug\LdsCDMA_v1.obj
+         Debug\Rand.obj
+         Debug\stdafx.obj
+         LdsCdma.vcxproj -> E:\Yang\project\visual studio\LdsCdma\Debug\LdsCdma.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\LdsCdma.unsuccessfulbuild".
+         Touching "Debug\LdsCdma.lastbuildstate".
+     1>Done Building Project "E:\Yang\project\visual studio\LdsCdma\LdsCdma\LdsCdma.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.70

@@ -1,0 +1,15 @@
+Simulation Parameters
+Start SNR:			2
+Step SNR:			0.1
+Stop SNR:			3Random Seed:		173
+Max Iteration:		10
+
+Code Parameters
+File Name:			MN_4000.txt
+
+Modulation Parameters
+Type:				0
+
+Decoder Parameters
+Algorithm:			0
+MS Alpha:			0.8
